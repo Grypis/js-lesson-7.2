@@ -73,7 +73,7 @@ label {
 }
 
 input {
-    /* outline: none; */
+    outline: none;
 }
 
 .valid {
